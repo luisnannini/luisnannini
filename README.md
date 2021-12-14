@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/luisnannini?tab=repositories](https://github.com/luisnannini?tab=repositories)
 
-- 📫 How to reach me **luisnannini97@gmail.com**
+- 📫 My email: **luisnannini97@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
