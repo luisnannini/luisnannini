@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luis Nannini</h1>
-<h3 align="center">A software developer student from Argentina</h3>
+<h3 align="center">A software developer from Argentina</h3>
 
 - 🌐 I'm a Fullstack Developer with the M.E.R.N tecnologies
+
+- 📚 Always learning and perfecting my skills
 
 - 👨‍💻 All of my projects are available at [https://github.com/luisnannini?tab=repositories](https://github.com/luisnannini?tab=repositories)
 
