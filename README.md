@@ -7,6 +7,6 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrQ_CU3a6muH84mLfoP6xmM4ZJ9Z6RAXMmdA&s" alt="cursor" width="40" height="40"/>
   </a>
   <a href="https://claude.ai/" target="_blank" rel="noreferrer">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" alt="claude" width="80" height="20"/>
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" alt="claude" width="40" height="auto"/>
   </a>
 </p>
